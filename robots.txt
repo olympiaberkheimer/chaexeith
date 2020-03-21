@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ideeduvuat.uxwine.com/sitemap.xml
